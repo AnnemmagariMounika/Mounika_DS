@@ -1,5 +1,4 @@
-#Self-Introduction:#
-
+**Self-Introduction:
 Hi, my name is Mounika Annemmagari, and I’ve been working as a Data Scientist for over a year. I’m passionate about using data to solve real business problems, and I specialize in areas like Machine Learning, Natural Language Processing (NLP), Generative AI, and Data Visualization.
 
 In Generative AI, I have hands-on experience with models like GPT (Generative Pre-trained Transformer) and diffusion models, focusing on generating creative content such as text, images, and video. I've worked on building chatbots, content generation tools, and other AI-powered solutions customised for specific business needs.
