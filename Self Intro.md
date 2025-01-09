@@ -1,4 +1,4 @@
-*Self-Introduction:*
+#Self-Introduction:#
 
 Hi, my name is Mounika Annemmagari, and I’ve been working as a Data Scientist for over a year. I’m passionate about using data to solve real business problems, and I specialize in areas like Machine Learning, Natural Language Processing (NLP), Generative AI, and Data Visualization.
 
